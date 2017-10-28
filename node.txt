@@ -41,3 +41,6 @@ How to create TypeScript config file:
 To create a Task to create js files.
 1. Go to Task-> Configure Default Build Task
 2. Go to Task -> Run Build Task
+
+GIT repo:
+https://github.com/santoshyadav198613/Typescript-Demo-28Oct
