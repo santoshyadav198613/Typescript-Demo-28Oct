@@ -23,3 +23,8 @@ Diff between library and framework:
 
 react.js, jquery are libraries.
 
+Pre-requisite:
+node
+npm
+typescript
+html
