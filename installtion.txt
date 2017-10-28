@@ -1,0 +1,26 @@
+Installtion:
+1. NodeJs
+install it from: https://nodejs.org/en/download/
+
+Verify Node version:
+1. node -v
+Version should be greater than 6.
+
+2.npm -v
+Version should be >3
+
+
+IDE:
+1.Visual Studio Code
+to download visit:
+https://code.visualstudio.com/#alt-downloads
+
+
+TypeScript:
+to verify version 
+tsc -v
+
+
+MongoDB:
+downoad community edition:
+https://www.mongodb.com/download-center?jmp=nav#community

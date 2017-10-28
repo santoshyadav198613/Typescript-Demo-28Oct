@@ -1,0 +1,43 @@
+1. node is a javascript runtime, we can do server side coding using nodejs.
+
+It uses V8 engine, which is created by Google and available as Open Source , it is written in C++.
+
+Node has extended V8 Engine, and it is also written in C++.
+
+NPM:
+This is where all 3rd party libraries and packages are available.
+
+We can use "node <nodeFile/jsFile>"to run javascript
+
+Languages for Angular:
+1. TypeScript
+2. javascript (ES6/ ECMAScript 2015)
+3. Dart
+
+TypeScript:
+1. created by Microsoft in 2011
+2. It is superset of javascript
+3. It gives you the best optimized javascript.
+4. We can esily create a javascript for any version.
+5. It is type safe.
+
+
+Running TypeScript files.
+1. tsc <TypeScript_Filename>
+2. It transpiles the TS file.
+
+Modules:
+1. Each file is a module.
+
+
+Why modules are required.
+1. To share code within our app.
+2. we can use export and import to share code.
+3. Only one object per file.
+
+How to create TypeScript config file:
+1. tsc -init
+
+To create a Task to create js files.
+1. Go to Task-> Configure Default Build Task
+2. Go to Task -> Run Build Task
