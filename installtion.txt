@@ -20,7 +20,16 @@ TypeScript:
 to verify version 
 tsc -v
 
+Angular CLI:
+to install:
+npm install -g @angular/cli
+After this run ng to verify if angular cli is installed.
+To create a startup Project:
+1.ng new <AppName>
 
-MongoDB:
+
+
+
+MongoDB (optional):
 downoad community edition:
 https://www.mongodb.com/download-center?jmp=nav#community

@@ -1,0 +1,25 @@
+Why Angualr4:
+1. It is complete framework for UI development.
+a. Forms
+b. services to interact with API
+c. Routing/navigation
+d. Binding
+2. SPA (Single Page Application):
+We are always on a single page.
+3. Native Apps: you can create native apps
+https://ionicframework.com/
+4. Cross platform:
+Angular is cross paltform, you can run it on any platforms.
+https://universal.angular.io/ to create server side apps.
+5. Testing:
+Can be tested by using jasmine.
+6. Component Based:
+Focuses on Component based architecture.
+
+Diff between library and framework:
+1. library provides specific features, which we can use in framework
+2. framework is combination of multiple libraries.
+3. frameworks provides the flexibility to use different libraries.
+
+react.js, jquery are libraries.
+
